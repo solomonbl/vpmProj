@@ -2,7 +2,7 @@ export const FORM_DATA = [{
     "controlType":"checkboxGroup", 
     "visible":true, 
     "list" : [
-      {"key":"stuWheelchair","label":"Wheelchair","required":false,"order":1,"controlType":"checkbox","visible":true,"disabled":true,"type":""},
+      {"key":"stuWheelchair11","label":"Wheelchair","required":false,"order":1,"controlType":"checkbox","visible":true,"disabled":true,"type":""},
       {"key":"stuWheelchair","label":"Wheelchair","required":false,"order":1,"controlType":"checkbox","visible":true,"disabled":true,"type":""},
       {"key":"stuCurbToCurb","label":"Curb-to-curb","required":false,"order":1,"controlType":"checkbox","visible":true,"disabled":true,"type":""},
       {"key":"stuAide","label":"Aide","required":false,"order":1,"controlType":"checkbox","visible":true,"disabled":true,"type":""},
